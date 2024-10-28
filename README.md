@@ -1,6 +1,6 @@
 # YouTube Video Trend Monitoring System 📈
 
-![demo-image]([path/to/demo-image.png](https://github.com/NP10t/YouTube-Trend-Notifier/blob/91e255e13edc3757ede14be1fb3f583265f482ba/assets/kafka_diagram.png)) <!-- Replace with the actual path to your demo image in the repository -->
+![image alt]([path/to/demo-image.png](https://github.com/NP10t/YouTube-Trend-Notifier/blob/91e255e13edc3757ede14be1fb3f583265f482ba/assets/kafka_diagram.png)) <!-- Replace with the actual path to your demo image in the repository -->
 
 ## Project Overview
 This project is a data engineering solution designed to monitor YouTube videos on a specified channel or playlist, helping content managers identify trending and non-trending videos. With this information, YouTube channels can take strategic actions like updating thumbnails or titles to boost engagement and sustain video performance. This system provides real-time video trend analysis, monitoring, and notifications via Telegram for easy access.
