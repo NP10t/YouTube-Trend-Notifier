@@ -49,7 +49,8 @@ docker-compose up -d
    ```
 
 ### Demo
-![demo](path/to/another-demo-image.png) <!-- Embed more demo images here -->
+<img src="https://github.com/NP10t/YouTube-Trend-Notifier/blob/main/assets/demo.png" alt="image alt" width="500"/>
+
 
 ### Scheduling with Airflow
 This analysis can be automated daily using Airflow, ensuring you receive up-to-date trend insights regularly.
