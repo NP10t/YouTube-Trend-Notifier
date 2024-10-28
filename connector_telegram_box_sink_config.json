@@ -1,0 +1,17 @@
+{
+  "name": "telegram_box_sink",
+  "config": {
+    "connector.class": "io.confluent.connect.http.HttpSinkConnector",
+    "topics": "telegram_output_stream",
+    "errors.deadletterqueue.topic.replication.factor": "1",
+    "http.api.url": "https://api.telegram.org/bot7923438082:AAG1fNKMaStzoY_ZiC2SzFTe7koqYgAV1nM/sendMessage",
+    "request.method": "post",
+    "headers": "Content-Type: application/json",
+    "request.body.format": "json",
+    "batch.json.as.array": "false",
+    "batch.max.size": "1",
+    "reporter.result.topic.replication.factor": "1",
+    "reporter.error.topic.replication.factor": "1",
+    "reporter.bootstrap.servers": "broker:29092"
+  }
+}
