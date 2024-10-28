@@ -49,7 +49,7 @@ docker-compose up -d
    ```
 
 ### Demo
-<img src="https://github.com/NP10t/YouTube-Trend-Notifier/blob/main/assets/demo.jpg" alt="image alt" width="500"/>
+<img src="https://github.com/NP10t/YouTube-Trend-Notifier/blob/main/assets/demo.jpg" alt="image alt" width="300"/>
 
 
 ### Scheduling with Airflow
